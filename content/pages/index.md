@@ -27,10 +27,13 @@ sections:
     items:
       - type: Card
         title: Contact Us
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          2004 N Main Ave, Newton, NC 28658
+
+
+          [(828)
+          639-8519](https://www.google.com/search?q=Amber+Mueggenburg%2C+PLLC\&rlz=1C1UEAD_enUS1131US1131\&oq=Amber+Mueggenburg%2C+PLLC\&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiiBBiJBTIKCAMQABiABBiiBDIKCAQQABiiBBiJBTIGCAUQRRg9MgYIBhBFGDzSAQcyODJqMGo3qAIAsAIA\&sourceid=chrome\&ie=UTF-8#)
+
         image:
           type: Image
           url: /images/nextjs.svg
