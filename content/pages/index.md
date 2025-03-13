@@ -40,7 +40,7 @@ sections:
           altText: First item image
         actions: []
       - type: Card
-        title: Second Item Title
+        title: Disclaimer
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
