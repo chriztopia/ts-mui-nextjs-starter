@@ -21,10 +21,6 @@ sections:
 
 
     actions: []
-    image:
-      type: Image
-      url: /images/hero.svg
-      altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
     subtitle: Section subtitle here
