@@ -20,13 +20,7 @@ sections:
 
 
 
-    actions:
-      - type: Button
-        label: Start Building
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
-        size: large
-        variant: contained
-        color: primary
+    actions: []
     image:
       type: Image
       url: /images/hero.svg
