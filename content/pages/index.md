@@ -41,10 +41,15 @@ sections:
         actions: []
       - type: Card
         title: Disclaimer
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          "By providing my phone number to “Amber R. Mueggenburg, PLLC”, I agree
+          and acknowledge that “Amber R. Mueggenburg, PLLC” may send text
+          messages to my wireless phone number for any purpose. Message and data
+          rates may apply.
+
+          We will only send one SMS as a reply to you, and you will be able to
+          Opt-out by replying “STOP”. For more information on how your data will
+          be handled please visit (PRIVACY POLICY)."
         image:
           type: Image
           url: /images/mui-5.svg
