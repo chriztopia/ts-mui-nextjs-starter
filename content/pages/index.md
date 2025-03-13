@@ -62,7 +62,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Third Item Title
+        title: Privacy Policy
         text: >
           "No mobile information will be shared with third parties/affiliates
           for marketing/promotional purposes. All the above categories exclude
