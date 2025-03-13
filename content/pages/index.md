@@ -63,10 +63,11 @@ sections:
             color: primary
       - type: Card
         title: Third Item Title
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          "No mobile information will be shared with third parties/affiliates
+          for marketing/promotional purposes. All the above categories exclude
+          text messaging originator opt-in data and consent; this information
+          will not be shared with any third parties."
         image:
           type: Image
           url: /images/ts.svg
