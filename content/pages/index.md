@@ -23,7 +23,7 @@ sections:
     actions: []
   - type: CardsSection
     title: About Us
-    subtitle: The section subtitle
+    subtitle: ''
     items:
       - type: Card
         title: Contact Us
