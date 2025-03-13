@@ -3,39 +3,30 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Hero Title
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
-    actions:
-      - type: Button
-        label: Start Building
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
-        size: large
-        variant: contained
-        color: primary
-      - type: Button
-        label: Read the Docs
-        url: 'https://docs.netlify.com/visual-editor/overview/'
-        size: large
-        variant: outlined
-        color: primary
-    image:
-      type: Image
-      url: /images/hero.svg
-      altText: Hero section image
+    title: 'Amber Mueggenburg, PLLC'
+    subtitle: ''
+    text: >+
+      Amber R. Mueggenburg, PLLC - Attorney at Law
+
+      2004 N Main Ave, Newton, NC 28658
+
+      ---------------------------------
+
+
+      [(828)
+      639-8519](https://www.google.com/search?q=Amber+Mueggenburg%2C+PLLC\&rlz=1C1UEAD_enUS1131US1131\&oq=Amber+Mueggenburg%2C+PLLC\&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiiBBiJBTIKCAMQABiABBiiBDIKCAQQABiiBBiJBTIGCAUQRRg9MgYIBhBFGDzSAQcyODJqMGo3qAIAsAIA\&sourceid=chrome\&ie=UTF-8#)
+
+
+
+
+
+    actions: []
   - type: CardsSection
     title: Cards Section Component
     subtitle: Section subtitle here
     items:
       - type: Card
         title: First Card Title
-        image:
-          type: Image
-          url: /images/nextjs.svg
-          altText: First item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
