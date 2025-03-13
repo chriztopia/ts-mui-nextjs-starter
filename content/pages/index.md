@@ -5,65 +5,68 @@ sections:
   - type: HeroSection
     title: 'Amber Mueggenburg, PLLC'
     subtitle: ''
-    text: >+
+    text: |+
       Amber R. Mueggenburg, PLLC - Attorney at Law
-
       2004 N Main Ave, Newton, NC 28658
-
       ---------------------------------
-
-
-      [(828)
-      639-8519](https://www.google.com/search?q=Amber+Mueggenburg%2C+PLLC\&rlz=1C1UEAD_enUS1131US1131\&oq=Amber+Mueggenburg%2C+PLLC\&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiiBBiJBTIKCAMQABiABBiiBDIKCAQQABiiBBiJBTIGCAUQRRg9MgYIBhBFGDzSAQcyODJqMGo3qAIAsAIA\&sourceid=chrome\&ie=UTF-8#)
-
-
-
-
 
     actions: []
   - type: CardsSection
-    title: Cards Section Component
-    subtitle: Section subtitle here
+    title: About Us
+    subtitle: ''
     items:
       - type: Card
-        title: First Card Title
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
-        actions:
-          - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+        title: Contact Us
+        text: >+
+          2004 N Main Ave, Newton, NC 28658
+
+
+          [(828)
+          639-8519](https://www.google.com/search?q=Amber+Mueggenburg%2C+PLLC\&rlz=1C1UEAD_enUS1131US1131\&oq=Amber+Mueggenburg%2C+PLLC\&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiiBBiJBTIKCAMQABiABBiiBDIKCAQQABiiBBiJBTIGCAUQRRg9MgYIBhBFGDzSAQcyODJqMGo3qAIAsAIA\&sourceid=chrome\&ie=UTF-8#)
+
+        image:
+          type: Image
+          url: /images/nextjs.svg
+          altText: First item image
+        actions: []
       - type: Card
-        title: Second Card Title
+        title: Disclaimer
+        text: >
+          "By providing my phone number to “Amber R. Mueggenburg, PLLC”, I agree
+          and acknowledge that “Amber R. Mueggenburg, PLLC” may send text
+          messages to my wireless phone number for any purpose. Message and data
+          rates may apply.
+
+          We will only send one SMS as a reply to you, and you will be able to
+          Opt-out by replying “STOP”. For more information on how your data will
+          be handled please visit (PRIVACY POLICY)."
         image:
           type: Image
           url: /images/mui-5.svg
           altText: Second item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
         actions:
           - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            label: Learn more
+            url: /
+            size: medium
+            variant: text
+            color: primary
       - type: Card
-        title: Third Card Title
+        title: Privacy Policy
+        text: >
+          "No mobile information will be shared with third parties/affiliates
+          for marketing/promotional purposes. All the above categories exclude
+          text messaging originator opt-in data and consent; this information
+          will not be shared with any third parties."
         image:
           type: Image
           url: /images/ts.svg
           altText: Third item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
         actions:
           - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            label: Learn more
+            url: /
+            size: medium
+            variant: text
+            color: primary
 ---
