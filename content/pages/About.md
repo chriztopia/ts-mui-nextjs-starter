@@ -3,7 +3,7 @@ type: Page
 title: About
 sections:
   - type: HeroSection
-    title: An Empty Page
+    title: About Us
     subtitle: The section subtitle
     text: >
       We specialize primarily in Real Estate, Estate Planning, Probate, and
