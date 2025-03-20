@@ -5,11 +5,9 @@ sections:
   - type: HeroSection
     title: 'Amber Mueggenburg, PLLC'
     subtitle: ''
-    text: |+
+    text: |
       Amber R. Mueggenburg, PLLC - Attorney at Law
       2004 N Main Ave, Newton, NC 28658
-      ---------------------------------
-
     actions: []
   - type: CardsSection
     title: About Us
