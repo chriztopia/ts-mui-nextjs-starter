@@ -10,7 +10,7 @@ sections:
       2004 N Main Ave, Newton, NC 28658
     actions: []
   - type: CardsSection
-    title: About Us
+    title: Contact Us
     subtitle: ''
     items:
       - type: Card
